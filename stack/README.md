@@ -23,8 +23,8 @@
 | m      | 145          | 二叉树后序遍历    |    :star:          |
 
 
-| level  | #            | title          |   star       |
+| level  | #            | <div style="width:400px"> title </div> |   star       |
 | ------ | ------------ | -----------    | -------      |
 | h      | 32           | 最长有效括号    |   :star: :star:          |
-| h      | 42           | 接雨水          |   :star：          |
+| h      | 42           | 接雨水          |   :star:          |
 | h      | 85           | 最大矩形        |   :grey_question:        |
