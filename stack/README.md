@@ -25,6 +25,6 @@
 
 | level  | #            |  title         |   star       |
 | ------ | ------------ | -----------    | -------      |
-| h      | 32           | 最长有效括号    |   :star: :star:          |
+| h      | [32](https://github.com/mjlzz/leetcode-golang/blob/main/stack/32.md)           | 最长有效括号    |   :star: :star:          |
 | h      | 42           | 接雨水          |   :star:          |
 | h      | 85           | 最大矩形        |   :grey_question:        |
